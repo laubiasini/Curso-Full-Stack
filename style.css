@@ -1,0 +1,17 @@
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px !important;
+}
+.container{
+    min-width: 300px;
+
+}
+.imagenproa{
+    text-align: center;
+}
+.botones{
+    display: flex;
+    justify-content: space-between;
+}
