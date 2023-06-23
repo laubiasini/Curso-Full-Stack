@@ -1,0 +1,12 @@
+input::placeholder{
+    color: #eee;
+}
+.container{
+    display: grid;
+    grid-template:
+    "nombre apellido" 50px
+    "telefono email" 50px
+    "asunto" 50px
+    "consulta" 50px
+    ;
+}
