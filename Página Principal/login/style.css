@@ -1,0 +1,20 @@
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px !important;
+    background-color: rgb(81,81,233) !important;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    min-width: 300px;
+}
+.imagenproa{
+    text-align: center;
+}
+.botones{
+    display: flex;
+    justify-content: space-between;
+}
+
